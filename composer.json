@@ -36,7 +36,7 @@
         "bitwasp/bitcoin": "v0.0.34.1",
         "btccom/justencrypt": "v0.2.0",
         "btccom/cashaddress": "v0.0.3",
-        "mdanter/ecc": "v0.4.*",
+        "paragonie/ecc": "^2.1",
 
         "guzzlehttp/guzzle": "6.*",
         "99designs/http-signatures-guzzlehttp": "2.0.*",
